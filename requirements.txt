@@ -3,7 +3,7 @@ jinja2
 markdown>=3.3
 requests
 mdx_truly_sane_lists
-sphinx~=3.0.3
+sphinx~=3.3.0
 black==19.10b0
 pathlib
 tensorflow
